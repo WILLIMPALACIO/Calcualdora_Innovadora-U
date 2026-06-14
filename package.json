@@ -1,0 +1,24 @@
+{
+  "name": "calcualdora_innovadora-u",
+  "version": "1.0.0",
+  "description": "Calculadora Innovadora desarrollada con Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WILLIMPALACIO/Calcualdora_Innovadora-U.git"
+  },
+  "keywords": [],
+  "author": "Willim Palacio",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WILLIMPALACIO/Calcualdora_Innovadora-U/issues"
+  },
+  "homepage": "https://github.com/WILLIMPALACIO/Calcualdora_Innovadora-U#readme",
+  "devDependencies": {
+    "electron": "^42.4.0"
+  }
+}
